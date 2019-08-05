@@ -37,6 +37,6 @@ zplug "akarzim/zsh-plungy-aliases"
 
 - [François Vantomme](https://github.com/akarzim)
 
-[1]: https://www.docker.com/
+[1]: https://plunge.cloud
 [2]: https://github.com/zplug/zplug
 [3]: https://github.com/akarzim/zsh-plungy-aliases/issues
